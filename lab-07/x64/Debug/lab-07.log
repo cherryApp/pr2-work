@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Munka\pr2-work\lab-07\Source.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab-07.vcxproj -> C:\Munka\pr2-work\lab-07\x64\Debug\lab-07.exe
